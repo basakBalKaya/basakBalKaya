@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @basakBalKaya
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in ML,AI and mobile development
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me balmbasakgmail.com
 - 😄 Pronouns: She/Her
